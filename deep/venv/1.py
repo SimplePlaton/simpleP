@@ -1,4 +1,3 @@
-print("a")
-print("123")
-print("2222")
-print("test commit")
+import random
+x = random.choice([1,2,3,4])
+print(x)
